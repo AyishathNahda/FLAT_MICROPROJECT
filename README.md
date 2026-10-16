@@ -1,5 +1,11 @@
 # FA2RE — Finite Automata to Regular Expression Visualizer
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/AyishathNahda/FLAT_MICROPROJECT)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=netlify)](https://fa2re-converter.netlify.app/)
+
+> 🔗 **GitHub Repository:** [https://github.com/AyishathNahda/FLAT_MICROPROJECT](https://github.com/AyishathNahda/FLAT_MICROPROJECT)
+> 🌐 **Live Application:** [https://fa2re-converter.netlify.app/](https://fa2re-converter.netlify.app/)
+
 ## Project Overview
 
 FA2RE is an interactive educational visualizer that demonstrates the conversion of finite automata into equivalent regular expressions using Arden's Theorem. Users can create or select a finite automaton, visualize its states and transitions, generate state equations, observe symbolic substitution and Arden's Theorem step by step, and obtain the resulting regular expression. The application also provides a string tester to explore the language represented by the generated expression. The project is designed to make the mathematical conversion process in Formal Languages and Automata Theory easier to understand through interactive visualization.
